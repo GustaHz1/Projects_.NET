@@ -1,0 +1,14 @@
+C:\Users\gusta\source\repos\Estruturas de repetição em C#\Estruturas de repetição em C#\bin\Debug\net8.0\Estruturas de repetição em C#.exe
+C:\Users\gusta\source\repos\Estruturas de repetição em C#\Estruturas de repetição em C#\bin\Debug\net8.0\Estruturas de repetição em C#.deps.json
+C:\Users\gusta\source\repos\Estruturas de repetição em C#\Estruturas de repetição em C#\bin\Debug\net8.0\Estruturas de repetição em C#.runtimeconfig.json
+C:\Users\gusta\source\repos\Estruturas de repetição em C#\Estruturas de repetição em C#\bin\Debug\net8.0\Estruturas de repetição em C#.dll
+C:\Users\gusta\source\repos\Estruturas de repetição em C#\Estruturas de repetição em C#\bin\Debug\net8.0\Estruturas de repetição em C#.pdb
+C:\Users\gusta\source\repos\Estruturas de repetição em C#\Estruturas de repetição em C#\obj\Debug\net8.0\Estruturas de repetição em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\Estruturas de repetição em C#\Estruturas de repetição em C#\obj\Debug\net8.0\Estruturas de repetição em C#.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\Estruturas de repetição em C#\Estruturas de repetição em C#\obj\Debug\net8.0\Estruturas de repetição em C#.AssemblyInfo.cs
+C:\Users\gusta\source\repos\Estruturas de repetição em C#\Estruturas de repetição em C#\obj\Debug\net8.0\Estruturas de repetição em C#.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Estruturas de repetição em C#\Estruturas de repetição em C#\obj\Debug\net8.0\Estruturas de repetição em C#.dll
+C:\Users\gusta\source\repos\Estruturas de repetição em C#\Estruturas de repetição em C#\obj\Debug\net8.0\refint\Estruturas de repetição em C#.dll
+C:\Users\gusta\source\repos\Estruturas de repetição em C#\Estruturas de repetição em C#\obj\Debug\net8.0\Estruturas de repetição em C#.pdb
+C:\Users\gusta\source\repos\Estruturas de repetição em C#\Estruturas de repetição em C#\obj\Debug\net8.0\Estruturas de repetição em C#.genruntimeconfig.cache
+C:\Users\gusta\source\repos\Estruturas de repetição em C#\Estruturas de repetição em C#\obj\Debug\net8.0\ref\Estruturas de repetição em C#.dll

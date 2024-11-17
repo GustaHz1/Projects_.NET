@@ -1,0 +1,14 @@
+C:\Users\gusta\source\repos\Estacionamento de Carros\Estacionamento de Carros\obj\Debug\net8.0\Estacionamento de Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\Estacionamento de Carros\Estacionamento de Carros\obj\Debug\net8.0\Estacionamento de Carros.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\Estacionamento de Carros\Estacionamento de Carros\obj\Debug\net8.0\Estacionamento de Carros.AssemblyInfo.cs
+C:\Users\gusta\source\repos\Estacionamento de Carros\Estacionamento de Carros\obj\Debug\net8.0\Estacionamento de Carros.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Estacionamento de Carros\Estacionamento de Carros\bin\Debug\net8.0\Estacionamento de Carros.exe
+C:\Users\gusta\source\repos\Estacionamento de Carros\Estacionamento de Carros\bin\Debug\net8.0\Estacionamento de Carros.deps.json
+C:\Users\gusta\source\repos\Estacionamento de Carros\Estacionamento de Carros\bin\Debug\net8.0\Estacionamento de Carros.runtimeconfig.json
+C:\Users\gusta\source\repos\Estacionamento de Carros\Estacionamento de Carros\bin\Debug\net8.0\Estacionamento de Carros.dll
+C:\Users\gusta\source\repos\Estacionamento de Carros\Estacionamento de Carros\bin\Debug\net8.0\Estacionamento de Carros.pdb
+C:\Users\gusta\source\repos\Estacionamento de Carros\Estacionamento de Carros\obj\Debug\net8.0\Estacionamento de Carros.dll
+C:\Users\gusta\source\repos\Estacionamento de Carros\Estacionamento de Carros\obj\Debug\net8.0\refint\Estacionamento de Carros.dll
+C:\Users\gusta\source\repos\Estacionamento de Carros\Estacionamento de Carros\obj\Debug\net8.0\Estacionamento de Carros.pdb
+C:\Users\gusta\source\repos\Estacionamento de Carros\Estacionamento de Carros\obj\Debug\net8.0\Estacionamento de Carros.genruntimeconfig.cache
+C:\Users\gusta\source\repos\Estacionamento de Carros\Estacionamento de Carros\obj\Debug\net8.0\ref\Estacionamento de Carros.dll

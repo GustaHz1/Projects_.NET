@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Documentos\Projetos Visual Studio\Projetos Visual Studios\C#\Operadores Aritméticos\Operadores Aritméticos\bin\Debug\net8.0\Operadores Aritméticos.exe
+C:\Users\gusta\OneDrive\Documentos\Projetos Visual Studio\Projetos Visual Studios\C#\Operadores Aritméticos\Operadores Aritméticos\bin\Debug\net8.0\Operadores Aritméticos.deps.json
+C:\Users\gusta\OneDrive\Documentos\Projetos Visual Studio\Projetos Visual Studios\C#\Operadores Aritméticos\Operadores Aritméticos\bin\Debug\net8.0\Operadores Aritméticos.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Projetos Visual Studio\Projetos Visual Studios\C#\Operadores Aritméticos\Operadores Aritméticos\bin\Debug\net8.0\Operadores Aritméticos.dll
+C:\Users\gusta\OneDrive\Documentos\Projetos Visual Studio\Projetos Visual Studios\C#\Operadores Aritméticos\Operadores Aritméticos\bin\Debug\net8.0\Operadores Aritméticos.pdb
+C:\Users\gusta\OneDrive\Documentos\Projetos Visual Studio\Projetos Visual Studios\C#\Operadores Aritméticos\Operadores Aritméticos\obj\Debug\net8.0\Operadores Aritméticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Projetos Visual Studio\Projetos Visual Studios\C#\Operadores Aritméticos\Operadores Aritméticos\obj\Debug\net8.0\Operadores Aritméticos.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Projetos Visual Studio\Projetos Visual Studios\C#\Operadores Aritméticos\Operadores Aritméticos\obj\Debug\net8.0\Operadores Aritméticos.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Projetos Visual Studio\Projetos Visual Studios\C#\Operadores Aritméticos\Operadores Aritméticos\obj\Debug\net8.0\Operadores Aritméticos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Projetos Visual Studio\Projetos Visual Studios\C#\Operadores Aritméticos\Operadores Aritméticos\obj\Debug\net8.0\Operadores Aritméticos.dll
+C:\Users\gusta\OneDrive\Documentos\Projetos Visual Studio\Projetos Visual Studios\C#\Operadores Aritméticos\Operadores Aritméticos\obj\Debug\net8.0\refint\Operadores Aritméticos.dll
+C:\Users\gusta\OneDrive\Documentos\Projetos Visual Studio\Projetos Visual Studios\C#\Operadores Aritméticos\Operadores Aritméticos\obj\Debug\net8.0\Operadores Aritméticos.pdb
+C:\Users\gusta\OneDrive\Documentos\Projetos Visual Studio\Projetos Visual Studios\C#\Operadores Aritméticos\Operadores Aritméticos\obj\Debug\net8.0\Operadores Aritméticos.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Projetos Visual Studio\Projetos Visual Studios\C#\Operadores Aritméticos\Operadores Aritméticos\obj\Debug\net8.0\ref\Operadores Aritméticos.dll

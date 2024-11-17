@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estruturas de repetição em C#", "Estruturas de repetição em C#\Estruturas de repetição em C#.csproj", "{A508A11A-8EE6-4D84-85FF-591F015AC5FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A508A11A-8EE6-4D84-85FF-591F015AC5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A508A11A-8EE6-4D84-85FF-591F015AC5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A508A11A-8EE6-4D84-85FF-591F015AC5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A508A11A-8EE6-4D84-85FF-591F015AC5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {638FE561-151E-4BCB-8711-0E1D0D91ADBA}
+	EndGlobalSection
+EndGlobal
